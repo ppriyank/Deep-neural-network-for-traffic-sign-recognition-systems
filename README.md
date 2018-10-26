@@ -8,3 +8,7 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 
 
 ![Validation Error](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/validation2.png)
+
+
+
+![Spatial Network](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/Spatial%20Network.png)
