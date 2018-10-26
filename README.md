@@ -21,6 +21,8 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 - Currently Gaussian filter is kept constant for LCN, where as ideally it should be chosed at random during run-time  
 
 
+Neural Net gives output of 6 neurons necessary for Affine transformation (translation, **cropping, rotation, scaling, and skewing)** and uses grid generator and sampling as inbuilt Pytorch commands
+
 ![Main Architecture](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/Main%20Architecture.png)
 
 
@@ -39,8 +41,7 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 
 
 
-- *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu* 
-
+- *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu*  
 Spatial Transformer Networks 
 (https://arxiv.org/pdf/1506.02025.pdf
 )
