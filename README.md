@@ -14,9 +14,9 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 ## Notes:
 
 - ASGD Works best among all optimizers for me for Learning Rate : 10^-2  
-- Class imbalance is removed prior to training  
+- Class imbalance is removed prior to training by duplicating the data 
 - Learning Rate Decay worsenes the performance  
-- Data Augmentation in general decreases performance 
+- Data Augmentation, in general, decreases performance although Spatial Transformer model ensures augmentation isn't a problem. 
 - Architecture is changed slighlty from the  original set of layers 
 - Currently Gaussian filter is kept constant for LCN, where as ideally it should be chosed at random during run-time  
 
