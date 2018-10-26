@@ -11,7 +11,7 @@ https://reader.elsevier.com/reader/sd/pii/S0893608018300054?token=0656FA2921430A
 
 LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normalizations
 
-##Notes:
+## Notes:
 
 -ASGD Works best among all optimizers for me for Learning Rate : 10^-2 
 -Class imbalance is removed prior to training 
