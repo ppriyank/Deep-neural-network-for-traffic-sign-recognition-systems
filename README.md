@@ -12,6 +12,18 @@ https://reader.elsevier.com/reader/sd/pii/S0893608018300054?token=0656FA2921430A
 
 LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normalizations
 
+##Notes:
+
+-ASGD Works best among all optimizers for me for Learning Rate : 10^-2 
+-Class imbalance is removed prior to training 
+-Learning Rate Decay worsenes the performance 
+-Data Augmentation in general decreases performance
+-Architecture is changed slighlty from the  original set of layers
+-Currently Gaussian filter is kept constant for LCN, where as ideally it should be chosed at random during run-time 
+
+
+![Main Architecture](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/Main%20Architecture.png)
+
 
 ![Spatial Network](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/Spatial%20Network.png)
 
