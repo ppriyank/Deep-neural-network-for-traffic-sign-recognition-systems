@@ -7,4 +7,4 @@ Pytorch Implementation of Deep neural network for traffic sign recognition syste
 LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normalizations
 
 
-![Validation Error](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Validation Error](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/validation2.png)
