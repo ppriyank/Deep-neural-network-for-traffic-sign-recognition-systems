@@ -28,7 +28,7 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 
 
 
-- *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu*
+- *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu* \\
 Spatial Transformer Networks 
 (https://arxiv.org/pdf/1506.02025.pdf
 )
