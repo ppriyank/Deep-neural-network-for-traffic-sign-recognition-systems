@@ -28,11 +28,7 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 
 
 
-- * Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu *
+- *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu*
 Spatial Transformer Networks 
 (https://arxiv.org/pdf/1506.02025.pdf
 )
-
-- * Local Contranst Model *
-\\(https://github.com/dibyadas/Visualize-Normalizations)
-(https://medium.com/@dibyadas/visualizing-different-normalization-techniques-84ea5cc8c378)
