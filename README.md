@@ -13,12 +13,12 @@ LCN Implementation is taken from https://github.com/dibyadas/Visualize-Normaliza
 
 ## Notes:
 
--ASGD Works best among all optimizers for me for Learning Rate : 10^-2  
--Class imbalance is removed prior to training  
--Learning Rate Decay worsenes the performance  
--Data Augmentation in general decreases performance 
--Architecture is changed slighlty from the  original set of layers 
--Currently Gaussian filter is kept constant for LCN, where as ideally it should be chosed at random during run-time  
+- ASGD Works best among all optimizers for me for Learning Rate : 10^-2  
+- Class imbalance is removed prior to training  
+- Learning Rate Decay worsenes the performance  
+- Data Augmentation in general decreases performance 
+- Architecture is changed slighlty from the  original set of layers 
+- Currently Gaussian filter is kept constant for LCN, where as ideally it should be chosed at random during run-time  
 
 
 ![Main Architecture](https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems/blob/master/Main%20Architecture.png)
