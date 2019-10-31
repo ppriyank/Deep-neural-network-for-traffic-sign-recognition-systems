@@ -5,7 +5,13 @@ Pytorch Implementation of Deep neural network for traffic sign recognition syste
 
 * ÁlvaroArcos-GarcíaJuan A.Álvarez-GarcíaLuis M.Soria-Morillo*
 Deep neural network for traffic sign recognition systems: An analysisof spatial transformers and stochastic optimisation methods  
-https://reader.elsevier.com/reader/sd/pii/S0893608018300054?token=0656FA2921430AA401BA73A6990A187F32A6FBDD12EAA2FC87FD556B3CDDF6DA8D5BE54F230A979E57369C48AB081452
+
+[link1](https://idus.us.es/xmlui/bitstream/handle/11441/80679/NEUNET-D-17-00381.pdf?sequence=1&isAllowed=y)
+[link2](https://reader.elsevier.com/reader/sd/pii/S0893608018300054?token=0656FA2921430AA401BA73A6990A187F32A6FBDD12EAA2FC87FD556B3CDDF6DA8D5BE54F230A979E57369C48AB081452
+)
+
+
+
 
 
 
