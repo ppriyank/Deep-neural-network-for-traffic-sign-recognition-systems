@@ -54,6 +54,7 @@ Spatial Transformer Networks
 
 ### BibTeX
 
+```
 @misc{pathaktraffic,
   author = {Priyank Pathak},
   title = {PyTorch Deep Neural Network for Traffic Sign Recognition Systems
@@ -64,6 +65,5 @@ Spatial Transformer Networks
   doi = {10.5281/zenodo.4414861},
   howpublished = {\url{https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems}}
 }
-
-
+```
 
