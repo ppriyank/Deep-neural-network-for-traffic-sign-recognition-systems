@@ -50,9 +50,9 @@ Spatial Transformer Networks
 
 
 
-## Citing
+# Citing
 
-####BibTeX
+### BibTeX
 
 @misc{pathaktraffic,
   author = {Priyank Pathak},
