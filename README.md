@@ -57,12 +57,10 @@ Spatial Transformer Networks
 ```
 @misc{pathaktraffic,
   author = {Priyank Pathak},
-  title = {PyTorch Deep Neural Network for Traffic Sign Recognition Systems
-},
+  title = {PyTorch Deep Neural Network for Traffic Sign Recognition Systems},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  doi = {10.5281/zenodo.4414861},
   howpublished = {\url{https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems}}
 }
 ```
