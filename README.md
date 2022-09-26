@@ -42,12 +42,28 @@ Neural Net gives output of 6 neurons necessary for Affine transformation (transl
 
 
 
-
-
-
-
-
 - *Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu*  
 Spatial Transformer Networks 
 (https://arxiv.org/pdf/1506.02025.pdf
 )
+
+
+
+
+## Citing
+
+####BibTeX
+
+@misc{pathaktraffic,
+  author = {Priyank Pathak},
+  title = {PyTorch Deep Neural Network for Traffic Sign Recognition Systems
+},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  doi = {10.5281/zenodo.4414861},
+  howpublished = {\url{https://github.com/ppriyank/Deep-neural-network-for-traffic-sign-recognition-systems}}
+}
+
+
+
